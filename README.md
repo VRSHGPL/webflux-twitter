@@ -4,7 +4,7 @@ Spring webflux project to read from a twitter stream and map the tweets to Flux 
 
 Provide twitter developer api keys and access token in application.properties
 
-ov.apiKey=
-ov.apiSecret=
-ov.apiAccessToken=
-ov.apiAccessTokenSecret=
+ov.apiKey=<TODO>
+ov.apiSecret=<TODO>
+ov.apiAccessToken=<TODO>
+ov.apiAccessTokenSecret=<TODO>
